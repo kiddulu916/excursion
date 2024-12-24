@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1 {
+    font-family: 'Verdana', sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+header a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-caption h2 {
+    font-family: 'Verdana';
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.video-caption p {
+    font-family: 'Verdana';
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.camping-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.image-caption img {
+    padding: 20px;
+}
+
+.image-caption h2 {
+    font-family: 'Verdana';
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.image-caption p {
+    font-family: 'Verdana';
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+footer p {
+    font-family: 'Verdana';
+    text-align: right;
+    color: gray;
+}
+
+
+
